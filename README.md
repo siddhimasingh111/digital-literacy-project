@@ -35,5 +35,5 @@ Over the next four years, I plan to consistently update these platforms with new
 File Location
 All profile screenshots are available in the folder: `task-2-portfolio/`
 
-TASK 4 - Email Etiquette 
+#TASK 4 - Email Etiquette 
 A situation where poor digital communication caused a problem was when a student emailed their professor complaining about a grade without using proper email etiquette. The email was abrupt, lacked a greeting, and sounded confrontational. As a result, the professor misunderstood the student’s intent and did not respond favorably, delaying resolution. If the student had written a clear subject line, polite greeting, concise explanation, and professional tone, the communication would have been much more effective. This shows that following professional email etiquette is important to avoid misunderstandings and ensure that messages are taken seriously. Proper digital communication allows students to handle academic concerns responsibly, maintain positive relationships, and demonstrate professionalism in online interactions.
