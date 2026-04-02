@@ -21,3 +21,16 @@ The final infographic is available here:
 task-1-presentation/infographic.png
 
 ![Infographic](task-1-presentation/infographic.png)
+
+# Student Digital Portfolio – Task 2
+
+This task involves creating a professional digital presence across key platforms that employers, internship coordinators, and the academic community check.
+
+Platforms Used
+I chose **GitHub**, **LinkedIn**, and **Stack Overflow**. GitHub serves as a repository for my coding projects, assignments, and AI/ML experiments. LinkedIn acts as my professional networking platform, highlighting my education, skills, and achievements. Stack Overflow will help me engage with the programming community, learn from others’ solutions, and eventually contribute answers.
+
+Future Plans
+Over the next four years, I plan to consistently update these platforms with new projects, achievements, and learnings. This will help demonstrate my growth, connect with peers and mentors, and create opportunities for internships and collaborations. Maintaining an active professional presence online will support my goal of building a strong foundation for a successful career in AI/ML.
+
+File Location
+All profile screenshots are available in the folder: `task-2-portfolio/`
